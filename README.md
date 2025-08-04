@@ -1,12 +1,3 @@
-# Fr## Features
-
-- **Vite** - Fast development and build tool
-- **React** with TypeScript
-- **Better Auth** integration with backend API
-- **DaisyUI + Tailwind CSS** for styling
-- **Properties System** - Authenticated property listings with modal details
-- **Responsive Design** - Modern UI componentseact Application
-
 A modern React TypeScript frontend application with authentication and property management.
 
 ## Features
